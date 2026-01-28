@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85482011700",
+    "project_id": "studmall2",
+    "storage_bucket": "studmall2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85482011700:android:04183ce36d96d5a238de61",
+        "android_client_info": {
+          "package_name": "com.example.studmall2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0i-PVeHwli_89M2pbx9qZGof3L7TKSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
