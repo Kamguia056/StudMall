@@ -43,7 +43,7 @@ Le projet a été réalisé dans un cadre académique afin de mettre en pratique
 
 ## 📂 Structure du projet
 
-`bash
+```bash
 lib/
 ├── assets/
 ├── models/
@@ -52,3 +52,5 @@ lib/
 ├── widgets/
 ├── providers/
 └── main.dart
+```
+
